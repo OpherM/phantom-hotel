@@ -96,16 +96,6 @@ const AddProperty = () => {
                                 />
                             </div>
                         </div>
-                        <div>
-                            <div className='py-2 z-'>
-                                <label htmlFor="" className='text-white font-semibold font-popins text-[17px] capitalize'>room type <span className='text-primary'>*</span></label>
-                            </div>
-                            <div >
-                                <Dropdown value={"select room type"}
-                                    className='z-0'
-                                />
-                            </div>
-                        </div>
                     </div>
                     <div className='px-10'>
                         <div className='py-2 '>
